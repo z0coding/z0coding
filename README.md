@@ -1,2 +1,2 @@
-#### Better than no coding.
-#### https://sr.ht/~z0/
+### Better than no coding.
+### https://sr.ht/~z0/
